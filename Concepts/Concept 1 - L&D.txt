@@ -1,4 +1,5 @@
 Key Plot points
+
  - Magical Scale that "balances" the streagth of Light and Darkness
  
  - Light =/= good and Darkness =/= evil
@@ -18,7 +19,7 @@ Key Plot points
  - GO FIND PIECES OF SCALE!
 
  - on way too first piece mets guy whos strong with darkness
-
+ 
 
 History
 
@@ -40,15 +41,27 @@ History
 Enviroment
 
  - Temple holding scale is in the middle of two countries one houses light peoples and the other houses darkness people (durr)
-
+ 
  - most people are peaceful in both countries only a few people who have been persaded by Y or are a bit too greedy will attack you (wildlife too :P)
 
  - light area will have alot open areas full of grassland, lakes, and high mountains also night doesnt fall in the light area
 
- - the darkness area on the sureface is always dark or a dark blue brightness (is that possible?) will be full of deep caves that hold cities, ruins, etc.
+ - the darkness area on the surface is always dark or a dark blue brightness (is that possible?) will be full of deep caves that hold cities, ruins, etc.
  
 Misc
 
+ - Light and Darkness are not element but forms of power.
+ 
+ - each person can have a "Darkness bar" or a "Light bar" while the hero has both
+ 
+ - for the hero using light-based abilities increases the darkness bar and vice-versa because you have to stay "balanced"
+ 
+ - becoming unbalanced will cause you attacks to go towards the power you have more off (like < 10 points?) but you will take more damage this contines each 10? points
+ 
+ - after becoming completlely unbalanced you can team up with someone of the same element to do a high damage attack based on the power you are leaning towards
+
  - In light area Darkness is weakened and vice-versa
  
- - 
+ - element lean towards either light or darkness
+ 	+ Fire, Wind, Lightning are light-based
+	+ ice, Earth, Water are darkness-based
