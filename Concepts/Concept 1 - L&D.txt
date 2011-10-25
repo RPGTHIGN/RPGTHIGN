@@ -48,7 +48,31 @@ Enviroment
 
  - the darkness area on the surface is always dark or a dark blue brightness (is that possible?) will be full of deep caves that hold cities, ruins, etc.
  
+ - the final area while be a repica of the temple which the scale was held in but when you enter is will be warped.
+
+Boss ideas
+
+ - A "holy" Knight (light) who is opressing people and using the term "justice" to murder people in cold blood
+ 
+ - A mage who has become corrupt with power (light or darkness) and is slautering villages looking for strong people to battle.
+ 
+ - A massive gargoyle (darkness) who is a minion of Y and guards a darkness piece of the scale (which makes him stronger).
+ 
+
+Abilities
+
+- Magic will have "tier" an depending on what form of power they are from they can be called either (X is the name of magic):
+	+ Normal X, then Bright, then luminous, then blinding and then Holy for light-based.
+	+ Normal X, then Faint, then Gloomy, then Dusk and then Sunless for darkness-based.
+ 
+ - element lean towards either light or darkness
+ 	+ Fire, Wind, Lightning are light-based
+	+ ice, Earth, Water are darkness-based
+ 
+
 Misc
+
+ - The scale is half gold with a white thread holding the weight part, the other half is silver (darkness) with a black thread.
 
  - Light and Darkness are not element but forms of power.
  
@@ -61,7 +85,7 @@ Misc
  - after becoming completlely unbalanced you can team up with someone of the same element to do a high damage attack based on the power you are leaning towards
 
  - In light area Darkness is weakened and vice-versa
- 
- - element lean towards either light or darkness
- 	+ Fire, Wind, Lightning are light-based
-	+ ice, Earth, Water are darkness-based
+
+ - while in a light area darkness people will look weaker and (vise-versa)
+
+	
