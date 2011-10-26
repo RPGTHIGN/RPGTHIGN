@@ -1,3 +1,6 @@
+Major Theme
+ - Balance
+
 Key Plot points
 
  - Magical Scale that "balances" the streagth of Light and Darkness
@@ -6,7 +9,7 @@ Key Plot points
  
  - Once every X years one person is born with powers of both light and darkness when they turn X they must search for the magical scale and "re balance" the scales to key the balance
  
- - Hero is said person, gets tricked by Y who is light/darkness to destroy the scale and with it the balance
+ - Hero is said person, gets tricked by Y who is doesnt have light or darkness to destroy the scale and with it the balance
  
  - The scale is shattered into 7 different parts and taken by the the major minions of Y who gaurd them in hidden areas
  
@@ -14,7 +17,9 @@ Key Plot points
  
  - Wakes up in a unknown area with a girl strong with the light healing you.
  
- - after being heal find that Y has used the destoryed balance to do Z
+ - find out that X forms of time (Days, Months, Years) have passed.
+ 
+ - after being heal find that Y has used the destoryed balance to do gain powers of both light and darkness to do Z
  
  - GO FIND PIECES OF SCALE!
 
@@ -36,6 +41,8 @@ History
  - when he reached the place he found it full on stones that had absorbs the light and darkness from the surronding area after finding two pieces that where the exact same weight he put them on each side of the the scale glowed a greyish colour creating a giant temple around the area of stones the light spread around the two war countries cause them to stop and thus the age of peace began!
  
  -  once every X years you a person was born who share the same control of the light and darkness who job was to again choose 2 stones of light and darkness of the same weight.
+ 
+ -(SPOLIER) the untold part of the history is that for the world to stay balanced a child is born without both light or darkness powers this child cannot survive in both the light or darkness area because they have no power.
 
 
 Enviroment
@@ -50,6 +57,16 @@ Enviroment
  
  - the final area while be a repica of the temple which the scale was held in but when you enter is will be warped.
 
+Basic Enemies (random encounters)
+
+ Light Areas
+	- A Light-based Butterfly who uses wind atttack
+		+ "Don't take this things breeze too lightly"
+
+Darkness Areas		
+	- A Darkness-based Mole who uses Earth Attacks
+		+ "Been in the dark too long"
+ 
 Boss ideas
 
  - A "holy" Knight (light) who is opressing people and using the term "justice" to murder people in cold blood
@@ -62,27 +79,31 @@ Boss ideas
 Abilities
 
 - Magic will have "tier" an depending on what form of power they are from they can be called either (X is the name of magic):
-	+ Normal X, then Bright, then luminous, then blinding and then Holy for light-based.
+	+ Normal X, then Bright, then Luminous, then Blinding and then Holy for light-based.
 	+ Normal X, then Faint, then Gloomy, then Dusk and then Sunless for darkness-based.
  
  - element lean towards either light or darkness
  	+ Fire, Wind, Lightning are light-based
 	+ ice, Earth, Water are darkness-based
+	
+ - Healing can be done by both light and darkness but light-based healing is stronger on single targets and status problems while darkness-based healing is good at healing parties and rezing peoples.
  
 
 Misc
 
- - The scale is half gold with a white thread holding the weight part, the other half is silver (darkness) with a black thread.
+ - The scale is half gold (light) with a white thread holding the weight part, the other half is silver (darkness) with a black thread.
 
- - Light and Darkness are not element but forms of power.
+ - Light and Darkness are NOT element but forms of power.
  
  - each person can have a "Darkness bar" or a "Light bar" while the hero has both
  
- - for the hero using light-based abilities increases the darkness bar and vice-versa because you have to stay "balanced"
+ - for the hero using light-based abilities increases the darkness bar and vice-versa because you have to stay "balanced" (light spell make you unbalanced towards darkness
  
- - becoming unbalanced will cause you attacks to go towards the power you have more off (like < 10 points?) but you will take more damage this contines each 10? points
+ - the more unbalanced you are in one side the weaker the other side is (ie you light spells get weaker the more you uses them cause it makes you more unbalanced towards darkness)
  
- - after becoming completlely unbalanced you can team up with someone of the same element to do a high damage attack based on the power you are leaning towards
+ - becoming unbalanced will cause you attacks to go towards the power you have more off (like < 10 points?) but you will take more damage this contines each 10? points (like x1.2 then x1.4 up to 2)
+ 
+ - after becoming completlely unbalanced you can team up with someone of the same element to do a high damage attack based on the power you are leaning towards you you become balanced after you do this.
 
  - In light area Darkness is weakened and vice-versa
 
