@@ -42,7 +42,7 @@ History
  
  -  once every X years you a person was born who share the same control of the light and darkness who job was to again choose 2 stones of light and darkness of the same weight.
  
- -(SPOLIER) the untold part of the history is that for the world to stay balanced a child is born without both light or darkness powers this child cannot survive in both the light or darkness area because they have no power.
+ -(SPOLIER/Plot Twist) the untold part of the history is that for the world to stay balanced a child is born without both light or darkness powers this child cannot survive in both the light or darkness area because they have no power.
 
 
 Enviroment
@@ -71,7 +71,7 @@ Boss ideas
 
  - A "holy" Knight (light) who is opressing people and using the term "justice" to murder people in cold blood
  
- - A mage who has become corrupt with power (light or darkness) and is slautering villages looking for strong people to battle.
+ - A mage who has become corrupt with power (light and/or darkness) and is slautering villages looking for strong people to battle.
  
  - A massive gargoyle (darkness) who is a minion of Y and guards a darkness piece of the scale (which makes him stronger).
  
@@ -86,7 +86,9 @@ Abilities
  	+ Fire, Wind, Lightning are light-based
 	+ ice, Earth, Water are darkness-based
 	
- - Healing can be done by both light and darkness but light-based healing is stronger on single targets and status problems while darkness-based healing is good at healing parties and rezing peoples.
+ - Healing can be done by both light and darkness but
+	+ Light-based healing is stronger on single targets and status problems.
+	+ Darkness-based healing is good at healing parties and rezing peoples.
  
 
 Misc
@@ -108,5 +110,9 @@ Misc
  - In light area Darkness is weakened and vice-versa
 
  - while in a light area darkness people will look weaker and (vise-versa)
+ 
+ - The Hero is affected differently to light and dark areas they become slight de-balanced like (~5 points)
+ 
+ - (?)after you collect a piece of the scale whatever side it is (gold/light or silver/darkness) they become able to become more unbalanced towords the power
 
 	
