@@ -40,7 +40,7 @@ History
  
  - when he reached the place he found it full on stones that had absorbs the light and darkness from the surronding area after finding two pieces that where the exact same weight he put them on each side of the the scale glowed a greyish colour creating a giant temple around the area of stones the light spread around the two war countries cause them to stop and thus the age of peace began!
  
- -  once every X years you a person was born who share the same control of the light and darkness who job was to again choose 2 stones of light and darkness of the same weight.
+ - once every X years you a person was born who share the same control of the light and darkness who job was to again choose 2 stones of light and darkness of the same weight.
  
  -(SPOLIER/Plot Twist) the untold part of the history is that for the world to stay balanced a child is born without both light or darkness powers this child cannot survive in both the light or darkness area because they have no power.
 
@@ -101,9 +101,9 @@ Misc
  
  - for the hero using light-based abilities increases the darkness bar and vice-versa because you have to stay "balanced" (light spell make you unbalanced towards darkness
  
- - the more unbalanced you are in one side the weaker the other side is (ie you light spells get weaker the more you uses them cause it makes you more unbalanced towards darkness)
+ - the more unbalanced you are in one side the weaker the other side is (ie you take more darkness damage and your dark spells cost more)
  
- - becoming unbalanced will cause you attacks to go towards the power you have more off (like < 10 points?) but you will take more damage this contines each 10? points (like x1.2 then x1.4 up to 2)
+ - becoming unbalanced will cause you attacks to go towards the power you have more off (ie. use dark spell become more light charged) (like < 10 points?) but you will take more damage this contines each 10? points (like x1.2 then x1.4 up to 2)
  
  - after becoming completlely unbalanced you can team up with someone of the same element to do a high damage attack based on the power you are leaning towards you you become balanced after you do this.
 
@@ -113,6 +113,11 @@ Misc
  
  - The Hero is affected differently to light and dark areas they become slight de-balanced like (~5 points)
  
- - (?)after you collect a piece of the scale whatever side it is (gold/light or silver/darkness) they become able to become more unbalanced towords the power
+ - (?)after you collect a piece of the scale whatever side it is (gold/light or silver/darkness) they become able to become more unbalanced towords the power (ie get a dark part, your dark bar's max increases)
 
+ - (?) Kill a Dark enemy gives Dark Exp which can be used to upgrade your dark abilities and vice-versa
+	+ The Hero has a Light and Dark lvl which detemines his default balance of the Light and Dark bars
+
+
+** (?) means not sure about the idea **
 	
