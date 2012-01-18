@@ -1,3 +1,5 @@
+Chipset
+
 Basic Castle Walls, Floor, Pillars
 Dungeon Walls, Floor, Pillars
 Special Castle Wall, Floor, Pillars (Ten's Area)
@@ -13,11 +15,9 @@ Fancy Chair (Ten's)
 Smaller table
 Fire Place (Front, Back and both Sides)
 About 10 paintings
-Door all angles
 Longue Chair, all angles
 Stair Piece's (Straight and Turning)
 Magical Lantern, all angles
-Fancy Door (Ten's Area)
 Book Cases (all angles)
 Suits Of Amour (maybe a few diffenernt types)
 Random Magical School things to place on tables (scrolls, potions, etc....)
@@ -36,8 +36,12 @@ Chest
 Trees in Pots
 Flowers in Pots
 Bins
+
+Standalone
+
+Animated fire in fireplace
+Animated Magic Lantern
+Door all angles
+Fancy Door (Ten's Area)
+Animated candle flame
 Secret Walls
-
-
-
-
